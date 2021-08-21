@@ -22,3 +22,4 @@ function resultado(anoRef, ano) {
   } else {}
 }
 resultado(anoRef, ano)
+// Detalhe para falta e refernciação em um limete na màximo na obrigatoriedade, sendo essa uma melhoria ara a roxima versão.
